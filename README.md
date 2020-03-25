@@ -1,2 +1,3 @@
 # PHP
-# PHP
+# JS
+# MySQL
